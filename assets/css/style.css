@@ -26,6 +26,7 @@ body {
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
+    
 }
 
 #menu li {
@@ -34,4 +35,18 @@ body {
     color: #3B707D;
     list-style-type: none;
     margin: 25px 30px 75px;
+    text-decoration: none;
+}
+
+a:link { 
+    text-decoration: none; 
+}
+
+a:visited { 
+    text-decoration: none; 
+    color: #3B707D; 
+   }
+
+a:hover {
+    text-decoration: underline;
 }
