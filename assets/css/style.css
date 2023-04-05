@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Sansita:ital@1&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color: #3a3a3a;
+    background-color: #ECF3FB;
+}
+
+/* Navigation Elements */
+
+#logo {
+    float: left;
+    font-family: Sansita, sans-serif;
+    font-size: 280%;
+    margin-left: 30px;
+    color: #3B707D;
+}
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+#menu li {
+    float: right;
+    font-family: 'Open Sans', sans-serif;
+    color: #3B707D;
+    list-style-type: none;
+    margin: 25px 30px 75px;
+}
