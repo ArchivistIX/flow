@@ -13,6 +13,9 @@ body {
     background-color: #ecf3fb;
 }
 
+
+/* Navigation Bar */
+
 #logo {
     float: left;
     font-family: Sansita, sans-serif;
@@ -141,4 +144,31 @@ a:hover {
     .animated-word {
       font-size: 500%;
     }
+  }
+
+  /* Sections */
+
+  .white-section {
+    background-color: #fff;
+    color: #3a3a3a;
+  }
+
+  .white-section h2 {
+    text-align: center;
+    font-size: 5em;
+    color: #57A5B8;
+    font-weight: bold;
+    padding: 40px 0 20px;
+  }
+
+  .white-section p {
+    text-align: center;
+    font-size: 1.5em;
+    padding: 40px 40px 80px;
+  }
+
+  .blue-section p {
+    text-align: center;
+    font-size: 1.5em;
+    padding: 40px 40px 80px;
   }
