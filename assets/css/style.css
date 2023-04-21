@@ -12,3 +12,11 @@ body {
     color: #3a3a3a;
     background-color: #ecf3fb;
 }
+
+#logo {
+    float: left;
+    font-family: Sansita, sans-serif;
+    font-size: 280%;
+    margin-left: 30px;
+    color: #57A5B8;
+}
