@@ -278,3 +278,66 @@ a:hover {
     flex-direction: row;
     align-items: center;
 }
+
+@media screen and (max-width: 992px) {
+  .white-section .content {
+    flex-direction: column;
+  }
+
+  #surfer2 {
+    width: 50%;
+    height: auto;
+    margin: 0 auto;
+  }
+}
+
+/* Footer */
+
+footer {
+  background-color: #57A5B8;
+  padding: 40px 0;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer-links {
+  display: flex;
+  list-style: none;
+}
+
+.footer-links li {
+  margin-left: 20px;
+}
+
+.footer-links a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+
+footer p {
+  color: #fff;
+}
+
+@media screen and (max-width: 768px) {
+  .footer-container {
+    flex-direction: column;
+  }
+
+  .footer-links {
+    margin-top: 20px;
+  }
+}
+
+#beginner-lessons {
+  background-color: #fff;
+}
