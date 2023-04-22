@@ -37,7 +37,8 @@ section {
 }
 
 h3 {
-  font-size: 210%;
+  font-size: 1.8em;
+  font-family: Sansita, sans-serif;
 }
 
 /* Navigation Bar */
@@ -363,7 +364,7 @@ footer p {
 .video-wrapper {
   width: 50%;
   margin: 5% auto;
-  padding: 5% auto;
+  padding: 5%;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
 }
 
@@ -412,6 +413,28 @@ footer p {
   background-color: #fff;
 }
 
+@media screen and (max-width: 1309px) {
+    .intro-lessons p {
+      font-size: large;
+      width: 70%;
+      margin: 5% auto;
+      padding: 5%;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+      background-color: #fff;
+    }
+}
+
+@media screen and (max-width: 576px) {
+  .intro-lessons p {
+    font-size: large;
+    width: 100%;
+    margin: 5% auto;
+    padding: 5%;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+    background-color: #fff;
+  }
+}
+
 
 
 @media screen and (max-width: 768px) {
@@ -434,4 +457,49 @@ footer p {
   .video-wrapper {
     width: 100%;
   }
+}
+
+/* Exercise Page */
+
+.left-picture {
+  float: left;
+  width: 150%;
+  height: 150%;
+  border-radius: 50%;
+  overflow: hidden;
+  padding: 40px 20px;
+  margin: 40px 40px;
+}
+
+.right-picture {
+  float: right;
+  width: 70%;
+  height: 70%;
+  border-radius: 50%;
+  overflow: hidden;
+  padding: 40px 20px;
+  margin: 40px 40px;
+}
+
+.organise {
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+  padding: 100px;
+}
+
+.organise div {
+  margin: auto;
+}
+
+.wrapper {
+  width: 50%;
+  margin: 5% auto;
+  padding: 5%;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+  background-color: #fff;
+}
+
+#bg-image {
+  background: url(../images/beach-water.jpg) no-repeat center center;
 }
