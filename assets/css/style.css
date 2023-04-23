@@ -357,6 +357,29 @@ footer p {
   .footer-links {
     margin-top: 20px;
   }
+
+  .social-media-links {
+    margin-top: 20px;
+  }
+}
+
+.social-media-links {
+  display: flex;
+  justify-content: center;
+}
+
+.social-media-links li {
+  list-style: none;
+  margin: 0 10px;
+}
+
+.social-media-links a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.social-media-links a:hover {
+  color: #fff
 }
 
 /* Video */
@@ -537,6 +560,7 @@ footer p {
 #contact-title {
   font-family: Sansita, sans-serif;
   font-size: 7em;
+  text-shadow: 2px 2px #23424A50;
   color: #fff;
   text-align: center;
   position: absolute;
