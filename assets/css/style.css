@@ -503,3 +503,9 @@ footer p {
 #bg-image {
   background: url(../images/beach-water.jpg) no-repeat center center;
 }
+
+.wrapper h3 {
+  margin: 0 auto;
+  padding-bottom: 40px;
+  font-size: 3em;
+}
