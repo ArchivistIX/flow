@@ -398,7 +398,7 @@ footer p {
 
 .youtube-video-container {
   position: relative;
-  padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+  padding-bottom: 56.25%;
   height: 0;
   overflow: hidden;
   max-width: 100%;
@@ -427,14 +427,7 @@ footer p {
   background-size: cover;
 }
 
-.intro-lessons p {
-  font-size: x-large;
-  width: 50%;
-  margin: 5% auto;
-  padding: 5%;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
-  background-color: #fff;
-}
+
 
 @media screen and (max-width: 1309px) {
     .intro-lessons p {
@@ -673,7 +666,6 @@ textarea {
   }
 }
 
-/* Mobile devices (landscape) and tablet devices (portrait) */
 @media only screen and (min-width: 481px) and (max-width: 1024px) {
   .left-picture, .right-picture {
     float: none;
