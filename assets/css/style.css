@@ -503,6 +503,8 @@ footer p {
 #bg-image {
   background: url(../images/surfgroup.jpg) no-repeat center center;
   background-size: cover;
+  height: 800px;
+  width: 100%;
 }
 
 .wrapper h3 {
@@ -514,4 +516,36 @@ footer p {
 #surf-group {
   background: url(../images/sgroup.jpg) no-repeat center center;
   background-size: cover;
+}
+
+/* Contact Page */
+
+#contact-hero {
+  height: 800px;
+  width: 100%;
+  background: url(../images/duck-dive.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+#contact-outer {
+  height: 800px;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+#contact-title {
+  font-family: Sansita, sans-serif;
+  font-size: 7em;
+  color: #fff;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#contact-info {
+  display: flex;
+  flex-direction: row;
 }
