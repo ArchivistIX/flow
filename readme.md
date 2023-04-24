@@ -157,7 +157,7 @@ This section welcomes users to the page and shares companies joy of surfing. It 
 
 
 * Future Implementations.
-  * Use javascript to perform return to top function on all of the pages page.
+  * Use javascript to perform return to top function on all of the pages.
   * Use javascript to better organise exercise sections for better user experience.
   * Community page - with gallery and user reviews/experiences.
   * Competitions/giveaways page - This page would give further information/rules on the competitions and giveaways Flow hosts.
