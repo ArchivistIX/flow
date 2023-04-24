@@ -22,7 +22,6 @@ This repository contains the source code for Flow, a surfing website designed fo
 
 * [Technologies Used](#Technologies-Used)
   * [Languages Used](#Languages-Used)
-  * [Frameworks, Libraries & Programs Used](#Frameworks,-Libraries-&-Programs-Used)
 
 * [Deployment & Local Development](#Deployment-&-Local-Development)
   * [Deployment](#Deployment)
@@ -34,18 +33,10 @@ This repository contains the source code for Flow, a surfing website designed fo
   * [W3C Validator](#W3C-Validator)
   * [Solved Bugs](#Solved-Bugs)
   * [Known Bugs](#Known-Bugs)
-  * [Testing User Stories](#Testing-User-Stories)
-  * [Lighthouse](#Lighthouse)
-    * [Index Page](#Index-Page)
-    * [Books Page](#Books-Page)
-    * [Contact Us Page](#Contact-Us-Page)
-    * [Thank You Page](#Thank-You-Page)
-  * [Full Testing](#Full-Testing)
   
 * [Credits](#Credits)
   * [Code Used](#Code-Used)
-  * [Content](#Content)
-  * [Media](#Media)
+  * [Content & Media](#Content-&-Media)
   * [Acknowledgments](#Acknowledgments)
 
 - - -
@@ -277,16 +268,18 @@ Inspiration from various surfing and fitness websites, such as: Surfer Magazine,
 
 Media by various surfing YouTube channels:
 
-[How to Rip](https://www.youtube.com/channel/UCuZSTHZf3vd7eVehhnotcsg)
-[Barefoot Surf](https://www.youtube.com/channel/UCvOh9i-BOFzu51rpj33fGag)
-[Kale Brock](https://www.youtube.com/channel/UCLdPicN16eAKPKir8EY1UXQ)
-[Surf Simply](https://www.youtube.com/channel/UC8bEqBo6HUYBETZZS2AsMlg)
-[Attembrah](https://www.youtube.com/channel/UCT_j1SXFnoB03bxxNnBsdCw)
-[Ombe Surf](https://www.youtube.com/channel/UCe_ZLwzh-73vuzoZesJJgkw)
-[Surfing with Noz](https://www.youtube.com/channel/UCoicMEw3njXscfwHlaAJVcQ)
-[Nic Von Rupp](https://www.youtube.com/channel/UCnDcnuhRMNxsI14ZnwIh6fQ)
-[Surfline](https://www.youtube.com/channel/UC4i3-yfVazfuqwoz71T79Sw)
-[Surf n Show Reviews](https://www.youtube.com/channel/UCyG8LQXPDH7WPuobykGStcQ)
+* [How to Rip](https://www.youtube.com/channel/UCuZSTHZf3vd7eVehhnotcsg)
+* [Barefoot Surf](https://www.youtube.com/channel/UCvOh9i-BOFzu51rpj33fGag)
+* [Kale Brock](https://www.youtube.com/channel/UCLdPicN16eAKPKir8EY1UXQ)
+* [Surf Simply](https://www.youtube.com/channel/UC8bEqBo6HUYBETZZS2AsMlg)
+* [Attembrah](https://www.youtube.com/channel/UCT_j1SXFnoB03bxxNnBsdCw)
+* [Ombe Surf](https://www.youtube.com/channel/UCe_ZLwzh-73vuzoZesJJgkw)
+* [Surfing with Noz](https://www.youtube.com/channel/UCoicMEw3njXscfwHlaAJVcQ)
+* [Nic Von Rupp](https://www.youtube.com/channel/UCnDcnuhRMNxsI14ZnwIh6fQ)
+* [Surfline](https://www.youtube.com/channel/UC4i3-yfVazfuqwoz71T79Sw)
+* [Surf n Show Reviews](https://www.youtube.com/channel/UCyG8LQXPDH7WPuobykGStcQ)
+
+Readme.md template used: [Kera Cudmore](https://github.com/kera-cudmore/readme-examples/blob/main/README.md)
 
 #### Other Images
 
