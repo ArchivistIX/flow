@@ -497,6 +497,7 @@ footer p {
   padding: 5%;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
   background-color: #fff;
+  text-align: justify;
 }
 
 #bg-image {
@@ -641,7 +642,7 @@ textarea {
   }
 
   .wrapper {
-    width: 100%;
+    width: auto;
     margin: 2% auto;
     padding: 2%;
   }
