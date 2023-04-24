@@ -345,7 +345,7 @@ footer {
 }
 
 .footer-links li {
-  margin-left: 20px;
+  margin: 0 10px;
 }
 
 .footer-links a {
