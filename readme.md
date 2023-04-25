@@ -238,7 +238,10 @@ The following issues were raised during my mid project meeting with my mentor:
 
 ### W3C Validator
 
-The W3C validator was used to validate the HTML on all pages of the website. It was also used to validate CSS in the style.css file.
+The W3C validator was used to validate the HTML on all pages of the website.
+No error are shown. Just warnings that section lacks heading, however it is not needed.
+
+CSS validation passes, no errors no warnings.
 
 ### Solved Bugs
 
@@ -251,6 +254,8 @@ The W3C validator was used to validate the HTML on all pages of the website. It 
 4. Animated word FLOW was fading out of the screen. That was solved by keeping the animation at 100% at the last frame.
 
 5. Images and videos were misaligned on Lessons, Exercises and Team pages. Removing some padding commands solved the issue.
+
+6. Footer misaligned on some mobile devices. Issue solved by changing some padding settings.
 
 ## Credits
 
