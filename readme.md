@@ -202,7 +202,15 @@ Google Dev Tools - To troubleshoot and test features, solve issues with responsi
 
 ### Deployment
 
-Github Pages was used to deploy the live website.
+The project was deployed to GitHub Pages using the following steps...
+
+* Log in to GitHub and locate the GitHub Repository
+* At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+* Scroll down the Settings page until you locate the "Pages" Section.
+* Under "Build and deploymet", for "Source" select "Deploy from branch".
+* Under "Branch", click the dropdown called "None" and select "Main" and "Root".
+* Click "Save".
+* Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
 
 ### Local Development
 
